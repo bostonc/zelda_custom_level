@@ -1,0 +1,16 @@
+TODO:
+
+Grid-based Movement and Positioning System.
+Zelda Overworld (Via Dataset)
+Camera Movement / Room Transitions.
+Link Default Attack
+
+Alternative Weapon (Bomb, boomerang, etc)
+Authentic HUD. Weapon Select.
+Speech System (NPCs).
+Authentic Sounds.
+Save-File system (Player-prefs)
+
+
+==Things to Note==
+-The player character and his projectiles both have Rigidbodies and colliders, but they don't collide with each other.

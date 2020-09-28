@@ -1,0 +1,5984 @@
+fileFormatVersion: 2
+guid: 6affeca1e326bb847bef18915f514b4e
+timeCreated: 1485192054
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stalfos1
+    21300002: NES - The Legend of Zelda - Underworld Enemies_0
+    21300004: NES - The Legend of Zelda - Underworld Enemies_1
+    21300006: NES - The Legend of Zelda - Underworld Enemies_2
+    21300008: NES - The Legend of Zelda - Underworld Enemies_3
+    21300010: NES - The Legend of Zelda - Underworld Enemies_4
+    21300012: NES - The Legend of Zelda - Underworld Enemies_5
+    21300014: NES - The Legend of Zelda - Underworld Enemies_6
+    21300016: NES - The Legend of Zelda - Underworld Enemies_7
+    21300018: NES - The Legend of Zelda - Underworld Enemies_8
+    21300020: NES - The Legend of Zelda - Underworld Enemies_9
+    21300022: NES - The Legend of Zelda - Underworld Enemies_10
+    21300024: NES - The Legend of Zelda - Underworld Enemies_11
+    21300026: NES - The Legend of Zelda - Underworld Enemies_12
+    21300028: NES - The Legend of Zelda - Underworld Enemies_13
+    21300030: NES - The Legend of Zelda - Underworld Enemies_14
+    21300032: NES - The Legend of Zelda - Underworld Enemies_15
+    21300034: NES - The Legend of Zelda - Underworld Enemies_16
+    21300036: NES - The Legend of Zelda - Underworld Enemies_17
+    21300038: NES - The Legend of Zelda - Underworld Enemies_18
+    21300040: NES - The Legend of Zelda - Underworld Enemies_19
+    21300042: NES - The Legend of Zelda - Underworld Enemies_20
+    21300044: NES - The Legend of Zelda - Underworld Enemies_21
+    21300046: NES - The Legend of Zelda - Underworld Enemies_22
+    21300048: NES - The Legend of Zelda - Underworld Enemies_23
+    21300050: NES - The Legend of Zelda - Underworld Enemies_24
+    21300052: NES - The Legend of Zelda - Underworld Enemies_25
+    21300054: NES - The Legend of Zelda - Underworld Enemies_26
+    21300056: NES - The Legend of Zelda - Underworld Enemies_27
+    21300058: NES - The Legend of Zelda - Underworld Enemies_28
+    21300060: NES - The Legend of Zelda - Underworld Enemies_29
+    21300062: NES - The Legend of Zelda - Underworld Enemies_30
+    21300064: NES - The Legend of Zelda - Underworld Enemies_31
+    21300066: NES - The Legend of Zelda - Underworld Enemies_32
+    21300068: NES - The Legend of Zelda - Underworld Enemies_33
+    21300070: NES - The Legend of Zelda - Underworld Enemies_34
+    21300072: NES - The Legend of Zelda - Underworld Enemies_35
+    21300074: NES - The Legend of Zelda - Underworld Enemies_36
+    21300076: NES - The Legend of Zelda - Underworld Enemies_37
+    21300078: NES - The Legend of Zelda - Underworld Enemies_38
+    21300080: NES - The Legend of Zelda - Underworld Enemies_39
+    21300082: NES - The Legend of Zelda - Underworld Enemies_40
+    21300084: NES - The Legend of Zelda - Underworld Enemies_41
+    21300086: NES - The Legend of Zelda - Underworld Enemies_42
+    21300088: NES - The Legend of Zelda - Underworld Enemies_43
+    21300090: NES - The Legend of Zelda - Underworld Enemies_44
+    21300092: NES - The Legend of Zelda - Underworld Enemies_45
+    21300094: NES - The Legend of Zelda - Underworld Enemies_46
+    21300096: NES - The Legend of Zelda - Underworld Enemies_47
+    21300098: NES - The Legend of Zelda - Underworld Enemies_48
+    21300100: NES - The Legend of Zelda - Underworld Enemies_49
+    21300102: NES - The Legend of Zelda - Underworld Enemies_50
+    21300104: NES - The Legend of Zelda - Underworld Enemies_51
+    21300106: NES - The Legend of Zelda - Underworld Enemies_52
+    21300108: NES - The Legend of Zelda - Underworld Enemies_53
+    21300110: NES - The Legend of Zelda - Underworld Enemies_54
+    21300112: NES - The Legend of Zelda - Underworld Enemies_55
+    21300114: NES - The Legend of Zelda - Underworld Enemies_56
+    21300116: NES - The Legend of Zelda - Underworld Enemies_57
+    21300118: NES - The Legend of Zelda - Underworld Enemies_58
+    21300120: NES - The Legend of Zelda - Underworld Enemies_59
+    21300122: NES - The Legend of Zelda - Underworld Enemies_60
+    21300124: NES - The Legend of Zelda - Underworld Enemies_61
+    21300126: NES - The Legend of Zelda - Underworld Enemies_62
+    21300128: NES - The Legend of Zelda - Underworld Enemies_63
+    21300130: NES - The Legend of Zelda - Underworld Enemies_64
+    21300132: NES - The Legend of Zelda - Underworld Enemies_65
+    21300134: NES - The Legend of Zelda - Underworld Enemies_66
+    21300136: NES - The Legend of Zelda - Underworld Enemies_67
+    21300138: NES - The Legend of Zelda - Underworld Enemies_68
+    21300140: NES - The Legend of Zelda - Underworld Enemies_69
+    21300142: NES - The Legend of Zelda - Underworld Enemies_70
+    21300144: NES - The Legend of Zelda - Underworld Enemies_71
+    21300146: NES - The Legend of Zelda - Underworld Enemies_72
+    21300148: NES - The Legend of Zelda - Underworld Enemies_73
+    21300150: NES - The Legend of Zelda - Underworld Enemies_74
+    21300152: NES - The Legend of Zelda - Underworld Enemies_75
+    21300154: NES - The Legend of Zelda - Underworld Enemies_76
+    21300156: NES - The Legend of Zelda - Underworld Enemies_77
+    21300158: NES - The Legend of Zelda - Underworld Enemies_78
+    21300160: NES - The Legend of Zelda - Underworld Enemies_79
+    21300162: NES - The Legend of Zelda - Underworld Enemies_80
+    21300164: NES - The Legend of Zelda - Underworld Enemies_81
+    21300166: NES - The Legend of Zelda - Underworld Enemies_82
+    21300168: NES - The Legend of Zelda - Underworld Enemies_83
+    21300170: NES - The Legend of Zelda - Underworld Enemies_84
+    21300172: NES - The Legend of Zelda - Underworld Enemies_85
+    21300174: NES - The Legend of Zelda - Underworld Enemies_86
+    21300176: NES - The Legend of Zelda - Underworld Enemies_87
+    21300178: NES - The Legend of Zelda - Underworld Enemies_88
+    21300180: NES - The Legend of Zelda - Underworld Enemies_89
+    21300182: NES - The Legend of Zelda - Underworld Enemies_90
+    21300184: NES - The Legend of Zelda - Underworld Enemies_91
+    21300186: NES - The Legend of Zelda - Underworld Enemies_92
+    21300188: NES - The Legend of Zelda - Underworld Enemies_93
+    21300190: NES - The Legend of Zelda - Underworld Enemies_94
+    21300192: NES - The Legend of Zelda - Underworld Enemies_95
+    21300194: NES - The Legend of Zelda - Underworld Enemies_96
+    21300196: NES - The Legend of Zelda - Underworld Enemies_97
+    21300198: NES - The Legend of Zelda - Underworld Enemies_98
+    21300200: NES - The Legend of Zelda - Underworld Enemies_99
+    21300202: NES - The Legend of Zelda - Underworld Enemies_100
+    21300204: NES - The Legend of Zelda - Underworld Enemies_101
+    21300206: NES - The Legend of Zelda - Underworld Enemies_102
+    21300208: NES - The Legend of Zelda - Underworld Enemies_103
+    21300210: NES - The Legend of Zelda - Underworld Enemies_104
+    21300212: NES - The Legend of Zelda - Underworld Enemies_105
+    21300214: NES - The Legend of Zelda - Underworld Enemies_106
+    21300216: NES - The Legend of Zelda - Underworld Enemies_107
+    21300218: NES - The Legend of Zelda - Underworld Enemies_108
+    21300220: NES - The Legend of Zelda - Underworld Enemies_109
+    21300222: NES - The Legend of Zelda - Underworld Enemies_110
+    21300224: NES - The Legend of Zelda - Underworld Enemies_111
+    21300226: NES - The Legend of Zelda - Underworld Enemies_112
+    21300228: NES - The Legend of Zelda - Underworld Enemies_113
+    21300230: NES - The Legend of Zelda - Underworld Enemies_114
+    21300232: NES - The Legend of Zelda - Underworld Enemies_115
+    21300234: NES - The Legend of Zelda - Underworld Enemies_116
+    21300236: NES - The Legend of Zelda - Underworld Enemies_117
+    21300238: NES - The Legend of Zelda - Underworld Enemies_118
+    21300240: NES - The Legend of Zelda - Underworld Enemies_119
+    21300242: NES - The Legend of Zelda - Underworld Enemies_120
+    21300244: NES - The Legend of Zelda - Underworld Enemies_121
+    21300246: NES - The Legend of Zelda - Underworld Enemies_122
+    21300248: NES - The Legend of Zelda - Underworld Enemies_123
+    21300250: NES - The Legend of Zelda - Underworld Enemies_124
+    21300252: NES - The Legend of Zelda - Underworld Enemies_125
+    21300254: NES - The Legend of Zelda - Underworld Enemies_126
+    21300256: NES - The Legend of Zelda - Underworld Enemies_127
+    21300258: NES - The Legend of Zelda - Underworld Enemies_128
+    21300260: NES - The Legend of Zelda - Underworld Enemies_129
+    21300262: NES - The Legend of Zelda - Underworld Enemies_130
+    21300264: NES - The Legend of Zelda - Underworld Enemies_131
+    21300266: NES - The Legend of Zelda - Underworld Enemies_132
+    21300268: NES - The Legend of Zelda - Underworld Enemies_133
+    21300270: NES - The Legend of Zelda - Underworld Enemies_134
+    21300272: NES - The Legend of Zelda - Underworld Enemies_135
+    21300274: NES - The Legend of Zelda - Underworld Enemies_136
+    21300276: NES - The Legend of Zelda - Underworld Enemies_137
+    21300278: NES - The Legend of Zelda - Underworld Enemies_138
+    21300280: NES - The Legend of Zelda - Underworld Enemies_139
+    21300282: NES - The Legend of Zelda - Underworld Enemies_140
+    21300284: NES - The Legend of Zelda - Underworld Enemies_141
+    21300286: NES - The Legend of Zelda - Underworld Enemies_142
+    21300288: NES - The Legend of Zelda - Underworld Enemies_143
+    21300290: NES - The Legend of Zelda - Underworld Enemies_144
+    21300292: NES - The Legend of Zelda - Underworld Enemies_145
+    21300294: NES - The Legend of Zelda - Underworld Enemies_146
+    21300296: NES - The Legend of Zelda - Underworld Enemies_147
+    21300298: NES - The Legend of Zelda - Underworld Enemies_148
+    21300300: NES - The Legend of Zelda - Underworld Enemies_149
+    21300302: NES - The Legend of Zelda - Underworld Enemies_150
+    21300304: NES - The Legend of Zelda - Underworld Enemies_151
+    21300306: NES - The Legend of Zelda - Underworld Enemies_152
+    21300308: NES - The Legend of Zelda - Underworld Enemies_153
+    21300310: NES - The Legend of Zelda - Underworld Enemies_154
+    21300312: NES - The Legend of Zelda - Underworld Enemies_155
+    21300314: NES - The Legend of Zelda - Underworld Enemies_156
+    21300316: NES - The Legend of Zelda - Underworld Enemies_157
+    21300318: NES - The Legend of Zelda - Underworld Enemies_158
+    21300320: NES - The Legend of Zelda - Underworld Enemies_159
+    21300322: NES - The Legend of Zelda - Underworld Enemies_160
+    21300324: NES - The Legend of Zelda - Underworld Enemies_161
+    21300326: NES - The Legend of Zelda - Underworld Enemies_162
+    21300328: NES - The Legend of Zelda - Underworld Enemies_163
+    21300330: NES - The Legend of Zelda - Underworld Enemies_164
+    21300332: NES - The Legend of Zelda - Underworld Enemies_165
+    21300334: NES - The Legend of Zelda - Underworld Enemies_166
+    21300336: NES - The Legend of Zelda - Underworld Enemies_167
+    21300338: NES - The Legend of Zelda - Underworld Enemies_168
+    21300340: NES - The Legend of Zelda - Underworld Enemies_169
+    21300342: NES - The Legend of Zelda - Underworld Enemies_170
+    21300344: NES - The Legend of Zelda - Underworld Enemies_171
+    21300346: NES - The Legend of Zelda - Underworld Enemies_172
+    21300348: NES - The Legend of Zelda - Underworld Enemies_173
+    21300350: NES - The Legend of Zelda - Underworld Enemies_174
+    21300352: NES - The Legend of Zelda - Underworld Enemies_175
+    21300354: NES - The Legend of Zelda - Underworld Enemies_176
+    21300356: NES - The Legend of Zelda - Underworld Enemies_177
+    21300358: NES - The Legend of Zelda - Underworld Enemies_178
+    21300360: NES - The Legend of Zelda - Underworld Enemies_179
+    21300362: NES - The Legend of Zelda - Underworld Enemies_180
+    21300364: NES - The Legend of Zelda - Underworld Enemies_181
+    21300366: NES - The Legend of Zelda - Underworld Enemies_182
+    21300368: NES - The Legend of Zelda - Underworld Enemies_183
+    21300370: NES - The Legend of Zelda - Underworld Enemies_184
+    21300372: NES - The Legend of Zelda - Underworld Enemies_185
+    21300374: NES - The Legend of Zelda - Underworld Enemies_186
+    21300376: NES - The Legend of Zelda - Underworld Enemies_187
+    21300378: NES - The Legend of Zelda - Underworld Enemies_188
+    21300380: NES - The Legend of Zelda - Underworld Enemies_189
+    21300382: NES - The Legend of Zelda - Underworld Enemies_190
+    21300384: NES - The Legend of Zelda - Underworld Enemies_191
+    21300386: NES - The Legend of Zelda - Underworld Enemies_192
+    21300388: NES - The Legend of Zelda - Underworld Enemies_193
+    21300390: NES - The Legend of Zelda - Underworld Enemies_194
+    21300392: NES - The Legend of Zelda - Underworld Enemies_195
+    21300394: NES - The Legend of Zelda - Underworld Enemies_196
+    21300396: NES - The Legend of Zelda - Underworld Enemies_197
+    21300398: NES - The Legend of Zelda - Underworld Enemies_198
+    21300400: NES - The Legend of Zelda - Underworld Enemies_199
+    21300402: NES - The Legend of Zelda - Underworld Enemies_200
+    21300404: NES - The Legend of Zelda - Underworld Enemies_201
+    21300406: NES - The Legend of Zelda - Underworld Enemies_202
+    21300408: NES - The Legend of Zelda - Underworld Enemies_203
+    21300410: NES - The Legend of Zelda - Underworld Enemies_204
+    21300412: NES - The Legend of Zelda - Underworld Enemies_205
+    21300414: NES - The Legend of Zelda - Underworld Enemies_206
+    21300416: NES - The Legend of Zelda - Underworld Enemies_207
+    21300418: NES - The Legend of Zelda - Underworld Enemies_208
+    21300420: NES - The Legend of Zelda - Underworld Enemies_209
+    21300422: NES - The Legend of Zelda - Underworld Enemies_210
+    21300424: NES - The Legend of Zelda - Underworld Enemies_211
+    21300426: NES - The Legend of Zelda - Underworld Enemies_212
+    21300428: NES - The Legend of Zelda - Underworld Enemies_213
+    21300430: NES - The Legend of Zelda - Underworld Enemies_214
+    21300432: NES - The Legend of Zelda - Underworld Enemies_215
+    21300434: NES - The Legend of Zelda - Underworld Enemies_216
+    21300436: NES - The Legend of Zelda - Underworld Enemies_217
+    21300438: NES - The Legend of Zelda - Underworld Enemies_218
+    21300440: NES - The Legend of Zelda - Underworld Enemies_219
+    21300442: NES - The Legend of Zelda - Underworld Enemies_220
+    21300444: NES - The Legend of Zelda - Underworld Enemies_221
+    21300446: NES - The Legend of Zelda - Underworld Enemies_222
+    21300448: NES - The Legend of Zelda - Underworld Enemies_223
+    21300450: NES - The Legend of Zelda - Underworld Enemies_224
+    21300452: NES - The Legend of Zelda - Underworld Enemies_225
+    21300454: NES - The Legend of Zelda - Underworld Enemies_226
+    21300456: NES - The Legend of Zelda - Underworld Enemies_227
+    21300458: NES - The Legend of Zelda - Underworld Enemies_228
+    21300460: NES - The Legend of Zelda - Underworld Enemies_229
+    21300462: NES - The Legend of Zelda - Underworld Enemies_230
+    21300464: NES - The Legend of Zelda - Underworld Enemies_231
+    21300466: NES - The Legend of Zelda - Underworld Enemies_232
+    21300468: NES - The Legend of Zelda - Underworld Enemies_233
+    21300470: NES - The Legend of Zelda - Underworld Enemies_234
+    21300472: NES - The Legend of Zelda - Underworld Enemies_235
+    21300474: NES - The Legend of Zelda - Underworld Enemies_236
+    21300476: NES - The Legend of Zelda - Underworld Enemies_237
+    21300478: NES - The Legend of Zelda - Underworld Enemies_238
+    21300480: NES - The Legend of Zelda - Underworld Enemies_239
+    21300482: NES - The Legend of Zelda - Underworld Enemies_240
+    21300484: NES - The Legend of Zelda - Underworld Enemies_241
+    21300486: NES - The Legend of Zelda - Underworld Enemies_242
+    21300488: NES - The Legend of Zelda - Underworld Enemies_243
+    21300490: NES - The Legend of Zelda - Underworld Enemies_244
+    21300492: NES - The Legend of Zelda - Underworld Enemies_245
+    21300494: NES - The Legend of Zelda - Underworld Enemies_246
+    21300496: NES - The Legend of Zelda - Underworld Enemies_247
+    21300498: NES - The Legend of Zelda - Underworld Enemies_248
+    21300500: NES - The Legend of Zelda - Underworld Enemies_249
+    21300502: NES - The Legend of Zelda - Underworld Enemies_250
+    21300504: NES - The Legend of Zelda - Underworld Enemies_251
+    21300506: NES - The Legend of Zelda - Underworld Enemies_252
+    21300508: NES - The Legend of Zelda - Underworld Enemies_253
+    21300510: NES - The Legend of Zelda - Underworld Enemies_254
+    21300512: NES - The Legend of Zelda - Underworld Enemies_255
+    21300514: NES - The Legend of Zelda - Underworld Enemies_256
+    21300516: NES - The Legend of Zelda - Underworld Enemies_257
+    21300518: NES - The Legend of Zelda - Underworld Enemies_258
+    21300520: NES - The Legend of Zelda - Underworld Enemies_259
+    21300522: NES - The Legend of Zelda - Underworld Enemies_260
+    21300524: NES - The Legend of Zelda - Underworld Enemies_261
+    21300526: NES - The Legend of Zelda - Underworld Enemies_262
+    21300528: NES - The Legend of Zelda - Underworld Enemies_263
+    21300530: NES - The Legend of Zelda - Underworld Enemies_264
+    21300532: NES - The Legend of Zelda - Underworld Enemies_265
+    21300534: NES - The Legend of Zelda - Underworld Enemies_266
+    21300536: NES - The Legend of Zelda - Underworld Enemies_267
+    21300538: NES - The Legend of Zelda - Underworld Enemies_268
+    21300540: NES - The Legend of Zelda - Underworld Enemies_269
+    21300542: NES - The Legend of Zelda - Underworld Enemies_270
+    21300544: NES - The Legend of Zelda - Underworld Enemies_271
+    21300546: NES - The Legend of Zelda - Underworld Enemies_272
+    21300548: NES - The Legend of Zelda - Underworld Enemies_273
+    21300550: NES - The Legend of Zelda - Underworld Enemies_274
+    21300552: NES - The Legend of Zelda - Underworld Enemies_275
+    21300554: NES - The Legend of Zelda - Underworld Enemies_276
+    21300556: NES - The Legend of Zelda - Underworld Enemies_277
+    21300558: NES - The Legend of Zelda - Underworld Enemies_278
+    21300560: NES - The Legend of Zelda - Underworld Enemies_279
+    21300562: NES - The Legend of Zelda - Underworld Enemies_280
+    21300564: NES - The Legend of Zelda - Underworld Enemies_281
+    21300566: NES - The Legend of Zelda - Underworld Enemies_282
+    21300568: NES - The Legend of Zelda - Underworld Enemies_283
+    21300570: NES - The Legend of Zelda - Underworld Enemies_284
+    21300572: NES - The Legend of Zelda - Underworld Enemies_285
+    21300574: NES - The Legend of Zelda - Underworld Enemies_286
+    21300576: NES - The Legend of Zelda - Underworld Enemies_287
+    21300578: NES - The Legend of Zelda - Underworld Enemies_288
+    21300580: NES - The Legend of Zelda - Underworld Enemies_289
+    21300582: NES - The Legend of Zelda - Underworld Enemies_290
+    21300584: NES - The Legend of Zelda - Underworld Enemies_291
+    21300586: NES - The Legend of Zelda - Underworld Enemies_292
+    21300588: NES - The Legend of Zelda - Underworld Enemies_293
+    21300590: NES - The Legend of Zelda - Underworld Enemies_294
+    21300592: NES - The Legend of Zelda - Underworld Enemies_295
+    21300594: NES - The Legend of Zelda - Underworld Enemies_296
+    21300596: NES - The Legend of Zelda - Underworld Enemies_297
+    21300598: NES - The Legend of Zelda - Underworld Enemies_298
+    21300600: NES - The Legend of Zelda - Underworld Enemies_299
+    21300602: NES - The Legend of Zelda - Underworld Enemies_300
+    21300604: NES - The Legend of Zelda - Underworld Enemies_301
+    21300606: NES - The Legend of Zelda - Underworld Enemies_302
+    21300608: NES - The Legend of Zelda - Underworld Enemies_303
+    21300610: NES - The Legend of Zelda - Underworld Enemies_304
+    21300612: NES - The Legend of Zelda - Underworld Enemies_305
+    21300614: NES - The Legend of Zelda - Underworld Enemies_306
+    21300616: NES - The Legend of Zelda - Underworld Enemies_307
+    21300618: NES - The Legend of Zelda - Underworld Enemies_308
+    21300620: NES - The Legend of Zelda - Underworld Enemies_309
+    21300622: NES - The Legend of Zelda - Underworld Enemies_310
+    21300624: NES - The Legend of Zelda - Underworld Enemies_311
+    21300626: NES - The Legend of Zelda - Underworld Enemies_312
+    21300628: NES - The Legend of Zelda - Underworld Enemies_313
+    21300630: NES - The Legend of Zelda - Underworld Enemies_314
+    21300632: NES - The Legend of Zelda - Underworld Enemies_315
+    21300634: NES - The Legend of Zelda - Underworld Enemies_316
+    21300636: NES - The Legend of Zelda - Underworld Enemies_317
+    21300638: NES - The Legend of Zelda - Underworld Enemies_318
+    21300640: NES - The Legend of Zelda - Underworld Enemies_319
+    21300642: NES - The Legend of Zelda - Underworld Enemies_320
+    21300644: NES - The Legend of Zelda - Underworld Enemies_321
+    21300646: NES - The Legend of Zelda - Underworld Enemies_322
+    21300648: NES - The Legend of Zelda - Underworld Enemies_323
+    21300650: NES - The Legend of Zelda - Underworld Enemies_324
+    21300652: NES - The Legend of Zelda - Underworld Enemies_325
+    21300654: NES - The Legend of Zelda - Underworld Enemies_326
+    21300656: NES - The Legend of Zelda - Underworld Enemies_327
+    21300658: NES - The Legend of Zelda - Underworld Enemies_328
+    21300660: NES - The Legend of Zelda - Underworld Enemies_329
+    21300662: NES - The Legend of Zelda - Underworld Enemies_330
+    21300664: NES - The Legend of Zelda - Underworld Enemies_331
+    21300666: NES - The Legend of Zelda - Underworld Enemies_332
+    21300668: NES - The Legend of Zelda - Underworld Enemies_333
+    21300670: NES - The Legend of Zelda - Underworld Enemies_334
+    21300672: NES - The Legend of Zelda - Underworld Enemies_335
+    21300674: NES - The Legend of Zelda - Underworld Enemies_336
+    21300676: NES - The Legend of Zelda - Underworld Enemies_337
+    21300678: NES - The Legend of Zelda - Underworld Enemies_338
+    21300680: NES - The Legend of Zelda - Underworld Enemies_339
+    21300682: NES - The Legend of Zelda - Underworld Enemies_340
+    21300684: NES - The Legend of Zelda - Underworld Enemies_341
+    21300686: NES - The Legend of Zelda - Underworld Enemies_342
+    21300688: NES - The Legend of Zelda - Underworld Enemies_343
+    21300690: NES - The Legend of Zelda - Underworld Enemies_344
+    21300692: NES - The Legend of Zelda - Underworld Enemies_345
+    21300694: NES - The Legend of Zelda - Underworld Enemies_346
+    21300696: NES - The Legend of Zelda - Underworld Enemies_347
+    21300698: NES - The Legend of Zelda - Underworld Enemies_348
+    21300700: NES - The Legend of Zelda - Underworld Enemies_349
+    21300702: NES - The Legend of Zelda - Underworld Enemies_350
+    21300704: NES - The Legend of Zelda - Underworld Enemies_351
+    21300706: NES - The Legend of Zelda - Underworld Enemies_352
+    21300708: NES - The Legend of Zelda - Underworld Enemies_353
+    21300710: NES - The Legend of Zelda - Underworld Enemies_354
+    21300712: NES - The Legend of Zelda - Underworld Enemies_355
+    21300714: NES - The Legend of Zelda - Underworld Enemies_356
+    21300716: NES - The Legend of Zelda - Underworld Enemies_357
+    21300718: NES - The Legend of Zelda - Underworld Enemies_358
+    21300720: NES - The Legend of Zelda - Underworld Enemies_359
+    21300722: NES - The Legend of Zelda - Underworld Enemies_360
+    21300724: NES - The Legend of Zelda - Underworld Enemies_361
+    21300726: NES - The Legend of Zelda - Underworld Enemies_362
+    21300728: NES - The Legend of Zelda - Underworld Enemies_363
+    21300730: NES - The Legend of Zelda - Underworld Enemies_364
+    21300732: NES - The Legend of Zelda - Underworld Enemies_365
+    21300734: NES - The Legend of Zelda - Underworld Enemies_366
+    21300736: NES - The Legend of Zelda - Underworld Enemies_367
+    21300738: NES - The Legend of Zelda - Underworld Enemies_368
+    21300740: NES - The Legend of Zelda - Underworld Enemies_369
+    21300742: NES - The Legend of Zelda - Underworld Enemies_370
+    21300744: NES - The Legend of Zelda - Underworld Enemies_371
+    21300746: NES - The Legend of Zelda - Underworld Enemies_372
+    21300748: NES - The Legend of Zelda - Underworld Enemies_373
+    21300750: NES - The Legend of Zelda - Underworld Enemies_374
+    21300752: NES - The Legend of Zelda - Underworld Enemies_375
+    21300754: NES - The Legend of Zelda - Underworld Enemies_376
+    21300756: NES - The Legend of Zelda - Underworld Enemies_377
+    21300758: NES - The Legend of Zelda - Underworld Enemies_378
+    21300760: NES - The Legend of Zelda - Underworld Enemies_379
+    21300762: NES - The Legend of Zelda - Underworld Enemies_380
+    21300764: NES - The Legend of Zelda - Underworld Enemies_381
+    21300766: NES - The Legend of Zelda - Underworld Enemies_382
+    21300768: NES - The Legend of Zelda - Underworld Enemies_383
+    21300770: NES - The Legend of Zelda - Underworld Enemies_384
+    21300772: NES - The Legend of Zelda - Underworld Enemies_385
+    21300774: NES - The Legend of Zelda - Underworld Enemies_386
+    21300776: NES - The Legend of Zelda - Underworld Enemies_387
+    21300778: NES - The Legend of Zelda - Underworld Enemies_388
+    21300780: NES - The Legend of Zelda - Underworld Enemies_389
+    21300782: NES - The Legend of Zelda - Underworld Enemies_390
+    21300784: NES - The Legend of Zelda - Underworld Enemies_391
+    21300786: NES - The Legend of Zelda - Underworld Enemies_392
+    21300788: NES - The Legend of Zelda - Underworld Enemies_393
+    21300790: NES - The Legend of Zelda - Underworld Enemies_394
+    21300792: NES - The Legend of Zelda - Underworld Enemies_395
+    21300794: NES - The Legend of Zelda - Underworld Enemies_396
+    21300796: NES - The Legend of Zelda - Underworld Enemies_397
+    21300798: NES - The Legend of Zelda - Underworld Enemies_398
+    21300800: NES - The Legend of Zelda - Underworld Enemies_399
+    21300802: NES - The Legend of Zelda - Underworld Enemies_400
+    21300804: NES - The Legend of Zelda - Underworld Enemies_401
+    21300806: NES - The Legend of Zelda - Underworld Enemies_402
+    21300808: NES - The Legend of Zelda - Underworld Enemies_403
+    21300810: NES - The Legend of Zelda - Underworld Enemies_404
+    21300812: NES - The Legend of Zelda - Underworld Enemies_405
+    21300814: NES - The Legend of Zelda - Underworld Enemies_406
+    21300816: NES - The Legend of Zelda - Underworld Enemies_407
+    21300818: NES - The Legend of Zelda - Underworld Enemies_408
+    21300820: NES - The Legend of Zelda - Underworld Enemies_409
+    21300822: NES - The Legend of Zelda - Underworld Enemies_410
+    21300824: NES - The Legend of Zelda - Underworld Enemies_411
+    21300826: NES - The Legend of Zelda - Underworld Enemies_412
+    21300828: NES - The Legend of Zelda - Underworld Enemies_413
+    21300830: NES - The Legend of Zelda - Underworld Enemies_414
+    21300832: NES - The Legend of Zelda - Underworld Enemies_415
+    21300834: NES - The Legend of Zelda - Underworld Enemies_416
+    21300836: NES - The Legend of Zelda - Underworld Enemies_417
+    21300838: NES - The Legend of Zelda - Underworld Enemies_418
+    21300840: NES - The Legend of Zelda - Underworld Enemies_419
+    21300842: NES - The Legend of Zelda - Underworld Enemies_420
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stalfos1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 143
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 146
+        width: 10
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 148
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 144
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 144
+        width: 12
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 144
+        width: 12
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 144
+        width: 12
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 144
+        width: 12
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 144
+        width: 12
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 144
+        width: 12
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 144
+        width: 12
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 144
+        width: 14
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 147
+        width: 6
+        height: 9
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 147
+        width: 6
+        height: 9
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 147
+        width: 6
+        height: 9
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 147
+        width: 6
+        height: 9
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 147
+        width: 6
+        height: 9
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 147
+        width: 6
+        height: 9
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 147
+        width: 6
+        height: 9
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 147
+        width: 8
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 120
+        width: 13
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 120
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 120
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 120
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 121
+        width: 15
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 121
+        width: 15
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 121
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 99
+        width: 8
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 96
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 96
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 96
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 96
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 96
+        width: 15
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 96
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 96
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 74
+        width: 16
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 72
+        width: 14
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 74
+        width: 16
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_195
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_196
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_197
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_198
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_199
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_200
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_201
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_202
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_203
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_204
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_205
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_206
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 72
+        width: 12
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_207
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 76
+        width: 16
+        height: 8
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_208
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 74
+        width: 10
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_209
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_210
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 74
+        width: 16
+        height: 13
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_211
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 76
+        width: 16
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_212
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_213
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_214
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_215
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_216
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_217
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_218
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_219
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_220
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_221
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_222
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_223
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_224
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 72
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_225
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 72
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_226
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 72
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_227
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 72
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_228
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 72
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_229
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_230
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 72
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_231
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 72
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_232
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 72
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_233
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 72
+        width: 14
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_234
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 72
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_235
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 72
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_236
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_237
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_238
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_239
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_240
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_241
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_242
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_243
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_244
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_245
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_246
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_247
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_248
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_249
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_250
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_251
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_252
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_253
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_254
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_255
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_256
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_257
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_258
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_259
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_260
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_261
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_262
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_263
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_264
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_265
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_266
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_267
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_268
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_269
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 82
+        width: 16
+        height: 6
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_270
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 75
+        width: 4
+        height: 10
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_271
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 73
+        width: 5
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_272
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_273
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_274
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_275
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_276
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_277
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_278
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_279
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_280
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_281
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_282
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_283
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 75
+        width: 12
+        height: 4
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_284
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_285
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_286
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_287
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_288
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_289
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_290
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_291
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_292
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_293
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_294
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 48
+        width: 15
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_295
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_296
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 50
+        width: 8
+        height: 12
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_297
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_298
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 50
+        width: 8
+        height: 12
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_299
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_300
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_301
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_302
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_303
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_304
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_305
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_306
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_307
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_308
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_309
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 49
+        width: 8
+        height: 14
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_310
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_311
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_312
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_313
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_314
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_315
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_316
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_317
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_318
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_319
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_320
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_321
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_322
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_323
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_324
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_325
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_326
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 48
+        width: 16
+        height: 15
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_327
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_328
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_329
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_330
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_331
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_332
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_333
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_334
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_335
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_336
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_337
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_338
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_339
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_340
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_341
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_342
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_343
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_344
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_345
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_346
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_347
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_348
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_349
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_350
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_351
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_352
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_353
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_354
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_355
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_356
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_357
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_358
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_359
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_360
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_361
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_362
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 48
+        width: 16
+        height: 16
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_363
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_364
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_365
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_366
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_367
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_368
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_369
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_370
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_371
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_372
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_373
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_374
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_375
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_376
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_377
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_378
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_379
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 32
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_380
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_381
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_382
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_383
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_384
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_385
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_386
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_387
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_388
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_389
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_390
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_391
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_392
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 24
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_393
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_394
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_395
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_396
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_397
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 6
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_398
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 16
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_399
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_400
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 16
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_401
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_402
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_403
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_404
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_405
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_406
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_407
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_408
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_409
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_410
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_411
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_412
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_413
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_414
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_415
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_416
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_417
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_418
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_419
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NES - The Legend of Zelda - Underworld Enemies_420
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 7
+        height: 7
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
